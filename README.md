@@ -24,4 +24,4 @@ SQL Functions: Joins, Aggregations, Group By, Order By
 💰 Total revenue generated and average order value.
 
 🧮 Sales contribution by pizza size, category, and price point.
-!(image_alt)(https://github.com/anusvm/Pizza_Hut_Sales_Analysis/blob/main/Pizzahut_EER.png)
+!(image_alt)("https://github.com/anusvm/Pizza_Hut_Sales_Analysis/blob/main/Pizzahut_EER.png")
